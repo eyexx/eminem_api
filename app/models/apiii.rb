@@ -1,0 +1,2 @@
+class Apiii < ApplicationRecord
+end
